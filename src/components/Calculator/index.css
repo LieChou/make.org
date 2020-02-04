@@ -1,0 +1,13 @@
+.block-label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.label-title {
+    display: inline-block;
+    min-width: 100px;
+}
+
+.calculate-buttons {
+    margin-right: 10px;
+}
